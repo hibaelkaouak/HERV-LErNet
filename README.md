@@ -6,7 +6,6 @@ HERV-LErNet is an extension of the LErNet framework, it will be adapted for anal
 - Identifies HERVs located within TADs and their co-localized genes
 - Analyzes HERVs involved in chromatin loop anchors and their potential gene targets
 - Visualizes HERV-gene relationships through interactive network graphs
-- Supports both TAD-based and loop-based connectivity analysis
 
 ## Requirements
 - R (>= 4.0.0)
